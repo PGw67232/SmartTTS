@@ -2,9 +2,9 @@
 
 Działanie:
 
-Jeśli nic nie jest odtwarzane, TTS wypowie wiadomość i ustawi poprzedni poziom głośności.
+Jeśli nic nie jest odtwarzane, TTS odtworzy wiadomość głosową i ustawi poprzedni poziom głośności.
 
-Jeśli głośnik odtwarza coś z URL, Spotify lub YouTube Music, TTS wypowie wiadomość, przywróci poprzedni poziom głośności i wznowi odtwarzanie.
+Jeśli głośnik odtwarza coś z URL, Spotify lub YouTube Music, TTS odtworzy wiadomość głosową, przywróci poprzedni poziom głośności i wznowi odtwarzanie.
 
 
 Wymagania:
