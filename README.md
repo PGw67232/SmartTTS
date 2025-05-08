@@ -29,8 +29,13 @@ Jak zacząć:
 3. Gotowe!
 
 Zmienne wejściowe:
+
 msg.speaker (wymagane) – ID głośnika obsługującego Google Cast
+
 msg.message (wymagane) – wiadomość TTS
+
 msg.volume (opcjonalne) – głośność wiadomości TTS. Jeśli nie podano, głośność nie jest zmieniana
+
 msg.tts_service (opcjonalne) – usługa TTS używana do wypowiedzenia wiadomości. Jeśli nie podano, używana jest domyślna
+
 msg.tts_language (opcjonalne) – język wiadomości Google TTS
